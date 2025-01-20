@@ -96,14 +96,14 @@ export const projects = [
     title: "My Portfolio",
     description:
       "A personal portfolio website showcasing my projects, skills, and experiences.",
-    link: "https://Oluwaferanmi.me",
+    link: "https://oluwaferanmi-dev.vercel.app/",
     technologies: ["TypeScript", "Next.js", "TailwindCSS"],
     type: "live",
   },
   {
-    title: "Buy Me Zobo",
-    description: "comning soon...",
-    link: "",
+    title: "Webpulse",
+    description: " A Real-time tracking, AI-driven optimization, and comprehensive insights to boost your websites speed and user experience.",
+    link: "https://webpulsev1.vercel.app/",
     technologies: [
       "TypeScript",
       "Next.js",
@@ -126,7 +126,7 @@ export const projects = [
   {
     title: "QuickChat",
     description: "A real-time chat application.",
-    link: "https://github.com/try-/QuickChat",
+    link: "",
     technologies: ["JavaScript", "Node.js", "React", "axios", "..."],
     type: "",
   },
@@ -134,7 +134,7 @@ export const projects = [
     title: "E-commerce-frontend",
     description:
       "A frontend for an e-commerce website built with React.js, to learn.",
-    link: "https://github.com/try-/E-commerce-frontend",
+    link: "",
     technologies: ["JavaScript", "React", "axios", "..."],
     type: "",
   },

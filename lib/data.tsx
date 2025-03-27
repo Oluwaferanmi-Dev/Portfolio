@@ -86,10 +86,10 @@ export const skills = [
 
 export const projects = [
   {
-    title: "SarionCare",
-    description: "A website for a Canadian Foster care company.",
-    link: "https://sardioncare.ca",
-    technologies: ["Javascript", "Ejs", "CSS", "Node.JS", "Express", "..."],
+    title: "Limpiar",
+    description: "Limpiar is a professional cleaning service that bridges the gap between property owners and cleaners.",
+    link: "https://limpiador-online.vercel.app/limpiador",
+    technologies: ["Typescript", "Node.js", "CSS", "Node.JS", "Express", "..."],
     type: "live",
   },
   {
@@ -116,10 +116,10 @@ export const projects = [
     type: "live",
   },
   {
-    title: "FavJay",
+    title: "Limpiar cleaning agency",
     description:
-      "Personal website for FavJay The Roadman, a Nigerian musical artist.",
-    link: "https://favjaytrm.com",
+      "The cleaning agency interface for limpiar a professional cleaning service that bridges the gap between property owners and cleaners.",
+    link: "https://limpiar-cleaning-agency.vercel.app/",
     technologies: ["TypeScript", "Next.js", "TailwindCSS"],
     type: "live",
   },
@@ -140,10 +140,10 @@ export const projects = [
   },
   
   {
-    title: "NerfedFlix",
+    title: "Limpiar Admins",
     description:
-      "A Netflix clone built with React.js, to master api consumption.",
-    link: "https://nerfed-flix-s3db.vercel.app/",
+      "The Admin interface for limpiar a professional cleaning service that bridges the gap between property owners and cleaners",
+    link: "https://limpiar-admins-demo.vercel.app/",
     technologies: [
       "JavaScript",
       "React",

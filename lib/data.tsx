@@ -1,8 +1,16 @@
 export const expereince = [
   {
+    title: "Full-Stack Web Developer",
+    company_name: "FUNKASH",
+    period: "December 2024 - Present",
+    description:
+      "As a Full-Stack Web Developer at Funkash Family Holdings, I build and maintain scalable web applications across various ventures. I create intuitive interfaces using React and Tailwind CSS, and develop secure backend services with Node.js. I’ve worked on projects like Limpiar, enhancing usability and system efficiency. I deploy and manage applications on platforms like Render and Vercel, ensuring performance and scalability. I deliver impactful solutions aligned with business goals while optimizing workflows and implementing best practices in development.",
+    location: "Remote, Nigeria",
+  },
+  {
     title: "Frontend Engineer",
     company_name: "Knfrmd web corp",
-    period: "Feb 2023 - Present",
+    period: "Feb 2023 - Nov 2024",
     description:
       "As a Frontend Web Developer at Knfrmd Web Corp., I bring my expertise in React, Next.js, TypeScript and my commitment to user-friendly design to the table.  Our team is dedicated to pushing the envelope in web development, ensuring seamless experiences across devices. With a skill set centered around front-end technologies and a passion for continuous learning, I am driven to contribute to projects that enhance productivity and user engagement. ",
     location: "Remote, Canada",

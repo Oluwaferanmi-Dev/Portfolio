@@ -96,7 +96,7 @@ export const projects = [
   {
     title: "Limpiar",
     description:
-      "Limpiar is a full-service cleaning marketplace connecting property owners with vetted cleaning agencies. Visitors can log in using dummy data to explore the features as a property manager. This demo simulates the experience of finding and hiring cleaners in real time.",
+      "Built for service-based businesses, Limpiar is a full-service cleaning marketplace that connects property owners with vetted cleaning agencies. I designed and developed a user-friendly interface that simulates the real experience of booking cleaners. Clients looking for booking platforms, vendor marketplaces, or service portals can explore this as a live demo with test credentials.",
     link: "https://limpiador-online.vercel.app/limpiador",
     technologies: ["Typescript", "Node.js", "CSS", "Express", "..."],
     type: "live",
@@ -104,7 +104,7 @@ export const projects = [
   {
     title: "Limpiar Cleaning Agency",
     description:
-      "This interface allows cleaning agencies to manage jobs, update cleaning progress, and communicate with clients. You can log in with test credentials to explore how a cleaning company would manage operations on the platform.",
+      "This platform helps cleaning companies manage bookings, track job progress, and communicate with clients in real-time. I developed this to show how service providers can use digital tools to streamline operations. Ideal for businesses in need of internal dashboards or CRM solutions.",
     link: "https://limpiar-cleaning-agency.vercel.app/",
     technologies: ["TypeScript", "Next.js", "TailwindCSS"],
     type: "live",
@@ -112,7 +112,7 @@ export const projects = [
   {
     title: "Limpiar Admins",
     description:
-      "Admin dashboard for overseeing the Limpiar platform. Includes user management, job tracking, and system analytics. You can explore the admin view with dummy data to understand platform-wide control.",
+      "I built the admin panel for the Limpiar ecosystem, featuring user management, job tracking, and real-time analytics. This project demonstrates how I can develop comprehensive admin dashboards for startups, SaaS tools, or internal teams needing platform oversight and control.",
     link: "https://limpiar-admins-demo.vercel.app/",
     technologies: [
       "JavaScript",
@@ -128,7 +128,7 @@ export const projects = [
   {
     title: "Eden Restoration",
     description:
-      "I collaborated with a team to build the web platform for the Eden Restoration Program — a non-profit organization dedicated to helping the less privileged. I translated designs into a responsive user interface using React and Tailwind CSS, ensuring clarity, accessibility, and smooth performance across all devices. The website serves as a digital hub for donations, awareness, and community engagement, helping Eden scale their outreach and impact.",
+      "I collaborated on the Eden Restoration Program’s website — a non-profit helping underprivileged communities. I built a clean, accessible front-end that supports donation flows and community outreach. If you need a site that drives social impact, donations, or volunteer engagement, this is a great example.",
     link: "https://eden-restoration.vercel.app",
     technologies: ["Typescript", "Node.js", "CSS", "Express", "..."],
     type: "live",
@@ -136,7 +136,7 @@ export const projects = [
   {
     title: "Vuga",
     description:
-      "I developed and maintained VUGA Music Agency's digital platform, which connects African music talents in the diaspora with opportunities in Nigeria. I worked across both frontend and backend — building artist profiles, submission flows, and dynamic content systems. The platform was designed for scalability and ease of use, giving artists and record labels a seamless way to collaborate and grow their brands online.",
+      "VUGA is a music agency platform designed to help African artists in the diaspora connect with the Nigerian music scene. I handled both frontend and backend tasks, including artist profiles and content submissions. If you’re building a platform for creatives, talent management, or submissions, this shows how I can help you scale it.",
     link: "https://Vuga-music.vercel.app",
     technologies: ["Typescript", "Node.js", "CSS", "Express", "..."],
     type: "live",
@@ -144,7 +144,7 @@ export const projects = [
   {
     title: "TheAiHub",
     description: 
-      "I built TheAiHub, a dynamic blog platform dedicated to AI trends and innovations. It features categorized articles on topics like generative AI, foundation models, and ethics, along with responsive design, smooth navigation, and a newsletter system. TheAiHub serves as a knowledge hub for AI enthusiasts and professionals keeping up with the latest in artificial intelligence.",
+      "TheAiHub is a content-driven blog platform focused on artificial intelligence. I created it to deliver categorized articles, smooth reading experience, and newsletter signups. This is ideal for thought leaders, tech publications, or brands who want to build authority with long-form content.",
     link: "https://theai-hub.vercel.app",
     technologies: ["Next.js", "TypeScript", "React", "Tailwind CSS", "Shadcn UI", "Vercel", "MDX"],
     type: "live"
@@ -152,7 +152,7 @@ export const projects = [
   {
     title: "Vivid Dreams",
     description: 
-      "I designed and developed Vivid Dreams, a premium streetwear e-commerce site focused on high-quality hoodies and urban fashion. The platform features a custom splash screen, inverse cursor, and interactive product gallery, all wrapped in a sleek dark theme. With smooth animations, responsive design, and a focus on clean, modern aesthetics, the site delivers an immersive and engaging shopping experience.",
+      "Vivid Dreams is a high-end streetwear e-commerce platform. I created a sleek, immersive shopping experience with features like a splash screen, custom cursor, and responsive product gallery. If you need a fashion or product-based storefront that stands out visually, this is a perfect example.",
     link: "https://vivid-dream.vercel.app",
     technologies: ["Next.js", "TypeScript", "React", "Tailwind CSS", "Shadcn UI", "Framer Motion", "Vercel"],
     type: "live"

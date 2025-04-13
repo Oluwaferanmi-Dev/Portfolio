@@ -142,13 +142,13 @@ export const projects = [
     type: "live",
   },
   {
-    title": "TheAiHub",
+    title: "TheAiHub",
     description: 
       "I designed and developed TheAiHub, a comprehensive AI-focused blog platform that explores cutting-edge developments in artificial intelligence. The site features in-depth articles on foundation models, generative AI, AI agents, and ethical considerations in the field. I implemented a responsive design with dynamic content sections, article categorization, and an intuitive reading experience. The platform includes featured articles, topic-based navigation, and a newsletter subscription system to keep readers updated on the latest AI advancements. TheAiHub serves as a knowledge repository for AI enthusiasts, researchers, and professionals looking to stay informed about the rapidly evolving AI landscape.",
     link: "https://theai-hub.vercel.app",
     technologies: ["Next.js", "TypeScript", "React", "Tailwind CSS", "Shadcn UI", "Vercel", "MDX"],
     type: "live"
-  }
+  },
   {
     title: "Vivid Dreams",
     description: 

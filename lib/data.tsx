@@ -141,4 +141,20 @@ export const projects = [
     technologies: ["Typescript", "Node.js", "CSS", "Express", "..."],
     type: "live",
   },
+  {
+    title": "TheAiHub",
+    description: 
+      "I designed and developed TheAiHub, a comprehensive AI-focused blog platform that explores cutting-edge developments in artificial intelligence. The site features in-depth articles on foundation models, generative AI, AI agents, and ethical considerations in the field. I implemented a responsive design with dynamic content sections, article categorization, and an intuitive reading experience. The platform includes featured articles, topic-based navigation, and a newsletter subscription system to keep readers updated on the latest AI advancements. TheAiHub serves as a knowledge repository for AI enthusiasts, researchers, and professionals looking to stay informed about the rapidly evolving AI landscape.",
+    link: "https://theai-hub.vercel.app",
+    technologies: ["Next.js", "TypeScript", "React", "Tailwind CSS", "Shadcn UI", "Vercel", "MDX"],
+    type: "live"
+  }
+  {
+    title: "Vivid Dreams",
+    description: 
+      "I designed and developed Vivid Dreams, a premium streetwear e-commerce platform specializing in high-quality hoodies and urban fashion. The site features an immersive user experience with a custom matrix-inspired splash screen that creates anticipation before revealing the main content. I implemented a unique inverse cursor that enhances the futuristic aesthetic while maintaining intuitive navigation. The platform showcases products through an interactive gallery with hover effects that reveal alternative product views, creating an engaging shopping experience. The minimalist dark theme with high contrast elements emphasizes the premium nature of the products while ensuring excellent readability. Vivid Dreams includes a full-screen auto-sliding banner that captures attention immediately, smooth scrolling navigation, and responsive design that adapts seamlessly to all device sizes. The clean, modern interface focuses on product presentation with carefully considered typography and spacing to create a sophisticated shopping environment for fashion-forward customers.",
+    link: "https://vivid-dream.vercel.app",
+    technologies: ["Next.js", "TypeScript", "React", "Tailwind CSS", "Shadcn UI", "Framer Motion", "Vercel"],
+    type: "live"
+  }
 ];

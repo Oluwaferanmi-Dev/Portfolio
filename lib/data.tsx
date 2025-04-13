@@ -125,44 +125,4 @@ export const projects = [
     ],
     type: "live",
   },
-  {
-    title: "Webpulse",
-    description:
-      "A performance optimization dashboard offering real-time monitoring, AI-driven suggestions, and detailed insights to help developers boost website speed and user experience.",
-    link: "https://webpulsev1.vercel.app/",
-    technologies: [
-      "TypeScript",
-      "Next.js",
-      "TailwindCSS",
-      "prisma",
-      "postgresql",
-      "docker",
-      "...",
-    ],
-    type: "live",
-  },
-  {
-    title: "My Portfolio",
-    description:
-      "A personal portfolio website showcasing my projects, skills, and work history. Built with performance and clean UI/UX in mind to help visitors understand my capabilities at a glance.",
-    link: "https://oluwaferanmi-dev.vercel.app/",
-    technologies: ["TypeScript", "Next.js", "TailwindCSS"],
-    type: "live",
-  },
-  {
-    title: "QuickChat",
-    description:
-      "A real-time chat application featuring live message updates and socket communication. Demonstrates my ability to build scalable communication tools using modern JavaScript stacks.",
-    link: "",
-    technologies: ["JavaScript", "Node.js", "React", "axios", "..."],
-    type: "",
-  },
-  {
-    title: "E-commerce Frontend",
-    description:
-      "A frontend prototype for an e-commerce platform built with React. Focuses on UI/UX, state management, and responsive design to simulate a modern shopping experience.",
-    link: "",
-    technologies: ["JavaScript", "React", "axios", "..."],
-    type: "",
-  },
 ];

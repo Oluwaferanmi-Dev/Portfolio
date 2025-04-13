@@ -18,7 +18,7 @@ export default function ProjectsPage() {
       <main className="container">
         <section className="pt-52 lg:pt-10">
           <BackButton />
-          <h1 className="text-4xl">An Overview of my Projects:</h1>
+          <h1 className="text-4xl">An Overview of my Projects you can tap on them to view the websites:</h1>
           <Projectss />
         </section>
         <Footer />

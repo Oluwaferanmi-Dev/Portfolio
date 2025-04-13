@@ -137,7 +137,7 @@ export const projects = [
     title: "Vuga",
     description:
       "I developed and maintained VUGA Music Agency's digital platform, which connects African music talents in the diaspora with opportunities in Nigeria. I worked across both frontend and backend — building artist profiles, submission flows, and dynamic content systems. The platform was designed for scalability and ease of use, giving artists and record labels a seamless way to collaborate and grow their brands online.",
-    link: "https://Vuga-music.vercel.app/limpiador",
+    link: "https://Vuga-music.vercel.app",
     technologies: ["Typescript", "Node.js", "CSS", "Express", "..."],
     type: "live",
   },

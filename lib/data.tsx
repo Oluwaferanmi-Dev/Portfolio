@@ -144,7 +144,7 @@ export const projects = [
   {
     title: "TheAiHub",
     description: 
-      "I designed and developed TheAiHub, a comprehensive AI-focused blog platform that explores cutting-edge developments in artificial intelligence. The site features in-depth articles on foundation models, generative AI, AI agents, and ethical considerations in the field. I implemented a responsive design with dynamic content sections, article categorization, and an intuitive reading experience. The platform includes featured articles, topic-based navigation, and a newsletter subscription system to keep readers updated on the latest AI advancements. TheAiHub serves as a knowledge repository for AI enthusiasts, researchers, and professionals looking to stay informed about the rapidly evolving AI landscape.",
+      "I built TheAiHub, a dynamic blog platform dedicated to AI trends and innovations. It features categorized articles on topics like generative AI, foundation models, and ethics, along with responsive design, smooth navigation, and a newsletter system. TheAiHub serves as a knowledge hub for AI enthusiasts and professionals keeping up with the latest in artificial intelligence.",
     link: "https://theai-hub.vercel.app",
     technologies: ["Next.js", "TypeScript", "React", "Tailwind CSS", "Shadcn UI", "Vercel", "MDX"],
     type: "live"
@@ -152,7 +152,7 @@ export const projects = [
   {
     title: "Vivid Dreams",
     description: 
-      "I designed and developed Vivid Dreams, a premium streetwear e-commerce platform specializing in high-quality hoodies and urban fashion. The site features an immersive user experience with a custom matrix-inspired splash screen that creates anticipation before revealing the main content. I implemented a unique inverse cursor that enhances the futuristic aesthetic while maintaining intuitive navigation. The platform showcases products through an interactive gallery with hover effects that reveal alternative product views, creating an engaging shopping experience. The minimalist dark theme with high contrast elements emphasizes the premium nature of the products while ensuring excellent readability. Vivid Dreams includes a full-screen auto-sliding banner that captures attention immediately, smooth scrolling navigation, and responsive design that adapts seamlessly to all device sizes. The clean, modern interface focuses on product presentation with carefully considered typography and spacing to create a sophisticated shopping environment for fashion-forward customers.",
+      "I designed and developed Vivid Dreams, a premium streetwear e-commerce site focused on high-quality hoodies and urban fashion. The platform features a custom splash screen, inverse cursor, and interactive product gallery, all wrapped in a sleek dark theme. With smooth animations, responsive design, and a focus on clean, modern aesthetics, the site delivers an immersive and engaging shopping experience.",
     link: "https://vivid-dream.vercel.app",
     technologies: ["Next.js", "TypeScript", "React", "Tailwind CSS", "Shadcn UI", "Framer Motion", "Vercel"],
     type: "live"

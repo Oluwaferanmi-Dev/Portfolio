@@ -125,4 +125,20 @@ export const projects = [
     ],
     type: "live",
   },
+  {
+    title: "Eden Restoration",
+    description:
+      "I collaborated with a team to build the web platform for the Eden Restoration Program — a non-profit organization dedicated to helping the less privileged. I translated designs into a responsive user interface using React and Tailwind CSS, ensuring clarity, accessibility, and smooth performance across all devices. The website serves as a digital hub for donations, awareness, and community engagement, helping Eden scale their outreach and impact.",
+    link: "https://eden-restoration.vercel.app",
+    technologies: ["Typescript", "Node.js", "CSS", "Express", "..."],
+    type: "live",
+  },
+  {
+    title: "Vuga",
+    description:
+      "v",
+    link: "https://Vuga-music.vercel.app/limpiador",
+    technologies: ["Typescript", "Node.js", "CSS", "Express", "..."],
+    type: "live",
+  },
 ];

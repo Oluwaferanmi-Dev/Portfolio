@@ -169,7 +169,7 @@ export const projects = [
   title: "Expense Tracker",
   description: 
     "Expense Tracker is a comprehensive financial management dashboard built to help users visualize and control their finances. I developed this full-featured application with real-time data visualization, interactive charts, and a responsive interface that works across all devices. The dashboard includes account management, transaction history, budget tracking, bill payment functionality, and detailed analytics. Perfect for individuals looking to gain better insights into their spending habits or businesses needing financial oversight tools.",
-  link: "https://expense-tracker-dashboard.vercel.app",
+  link: "https://caleb-expense-tracker-dashboard.vercel.app",
   "technologies": ["Next.js", "TypeScript", "React", "Tailwind CSS", "Shadcn UI", "Recharts", "React Context API", "Vercel"],
   "type": "live"
 }

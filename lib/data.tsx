@@ -134,14 +134,6 @@ export const projects = [
     type: "live",
   },
   {
-    title: "Vuga",
-    description:
-      "VUGA is a music agency platform designed to help African artists in the diaspora connect with the Nigerian music scene. I handled both frontend and backend tasks, including artist profiles and content submissions. If you’re building a platform for creatives, talent management, or submissions, this shows how I can help you scale it.",
-    link: "https://Vuga-music.vercel.app",
-    technologies: ["Typescript", "Node.js", "CSS", "Express", "..."],
-    type: "live",
-  },
-  {
     title: "TheAiHub",
     description: 
       "TheAiHub is a content-driven blog platform focused on artificial intelligence. I created it to deliver categorized articles, smooth reading experience, and newsletter signups. This is ideal for thought leaders, tech publications, or brands who want to build authority with long-form content.",
@@ -164,13 +156,5 @@ export const projects = [
   link: "https://simplypage.vercel.app",
   technologies: ["Next.js", "TypeScript", "React", "Tailwind CSS", "Shadcn UI", "Framer Motion", "Vercel"],
   type: "live"
-},
-{
-  title: "Expense Tracker",
-  description: 
-    "Expense Tracker is a comprehensive financial management dashboard built to help users visualize and control their finances. I developed this full-featured application with real-time data visualization, interactive charts, and a responsive interface that works across all devices. The dashboard includes account management, transaction history, budget tracking, bill payment functionality, and detailed analytics. Perfect for individuals looking to gain better insights into their spending habits or businesses needing financial oversight tools.",
-  link: "https://caleb-expense-tracker-dashboard.vercel.app",
-  "technologies": ["Next.js", "TypeScript", "React", "Tailwind CSS", "Shadcn UI", "Recharts", "React Context API", "Vercel"],
-  "type": "live"
 }
 ];

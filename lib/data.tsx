@@ -156,5 +156,21 @@ export const projects = [
     link: "https://vivid-dream.vercel.app",
     technologies: ["Next.js", "TypeScript", "React", "Tailwind CSS", "Shadcn UI", "Framer Motion", "Vercel"],
     type: "live"
-  }
+  },
+  {
+  title: "Simplypage",
+  description: 
+    "Simplypage is a modern SaaS platform designed to streamline business workflows. I created an elegant, animated landing page with features like interactive UI elements, smooth scrolling sections, and responsive pricing cards. If you need a professional SaaS or business platform that communicates value while maintaining visual appeal, this is an excellent showcase.",
+  link: "https://simplypage.vercel.app",
+  technologies: ["Next.js", "TypeScript", "React", "Tailwind CSS", "Shadcn UI", "Framer Motion", "Vercel"],
+  type: "live"
+},
+{
+  title: "Expense Tracker",
+  description: 
+    "Expense Tracker is a comprehensive financial management dashboard built to help users visualize and control their finances. I developed this full-featured application with real-time data visualization, interactive charts, and a responsive interface that works across all devices. The dashboard includes account management, transaction history, budget tracking, bill payment functionality, and detailed analytics. Perfect for individuals looking to gain better insights into their spending habits or businesses needing financial oversight tools.",
+  link: "https://expense-tracker-dashboard.vercel.app",
+  "technologies": ["Next.js", "TypeScript", "React", "Tailwind CSS", "Shadcn UI", "Recharts", "React Context API", "Vercel"],
+  "type": "live"
+}
 ];

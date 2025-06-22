@@ -36,15 +36,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://oluwaferanmi-dev.vercel.app/",
-    description: "This is my portfolio website guys, check it out!",
-    images: [
-      {
-        url: "https://i.pinimg.com/564x/7a/1c/1e/7a1c1e8ad44aa5a822d3668f8e60ce25.jpg",
-        width: 459,
-        height: 820,
-        alt: " Oluwaferanmi",
-      },
-    ],
+    description: "Hello and welcome!",
   },
 };
 

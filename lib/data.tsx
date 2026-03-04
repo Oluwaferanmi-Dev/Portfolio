@@ -74,6 +74,10 @@ export const socialLinks = [
     name: "Email",
     link: "mailto:feranmioyelowo@gmail.com",
   },
+  {
+    name: "Phone",
+    link: "tel:+2347026146243",
+  },
 ];
 
 export const skills = [
